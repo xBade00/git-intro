@@ -1,2 +1,2 @@
-# Merge Konflikte beheben auch 2
+# Arbeiten mit Merge Konflikten
 ## hier findet eine Übung statt
